@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "firstname": "homer",
+      "lastname": "simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "id": "3ad52697-6d98-4d80-8273-084de55a86c0"
+    },
+    {
+      "firstname": "marge",
+      "lastname": "simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "firstname": "123",
+      "lastname": "123",
+      "email": "123",
+      "password": "123",
+      "address": "123",
+      "height": "1",
+      "startingWeight": "100",
+      "id": "1a623e97-c937-4e7f-9f10-4d8be78773bc"
+    },
+    {
+      "firstname": "Mairead",
+      "lastname": "Dore",
+      "email": "meadoes@hotmail.com",
+      "password": "1234",
+      "address": "Templeglantine",
+      "height": "1.5",
+      "startingWeight": "1000",
+      "id": "dc050faa-b576-486d-b07f-2bc4984d3e0c"
+    },
+    {
+      "firstname": "555",
+      "lastname": "555",
+      "email": "555",
+      "password": "555",
+      "address": "555",
+      "height": "55",
+      "startingWeight": "55",
+      "id": "e6b7f69b-9cc6-4036-b711-63398ef3db97"
+    },
+    {
+      "firstname": "666",
+      "lastname": "666",
+      "email": "666",
+      "password": "666",
+      "address": "666",
+      "height": "66",
+      "startingWeight": "66",
+      "id": "8b2edd2a-9121-499b-ba00-98e2ef042a77"
+    }
+  ]
+}

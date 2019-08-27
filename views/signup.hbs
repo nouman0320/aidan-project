@@ -1,0 +1,68 @@
+{{> welcomemenu id="signup"}}
+
+<section class="ui raised segment">
+
+<div class="ui two column grid basic middle aligned segment">
+    <div class="column">
+
+        <form class="ui stacked segment form" action="/register" method="POST">
+            <h3 class="ui header">Register</h3>
+            <div class="two fields">
+                <div class="field">
+                    <label>First Name</label>
+                    <input placeholder="First Name" type="text" name="firstname">
+                </div>
+                <div class="field">
+                    <label>Last Name</label>
+                    <input placeholder="Last Name" type="text" name="lastname">
+                </div>
+            </div>
+            <div class="field">
+                <label>Email</label>
+                <input placeholder="Email" type="text" name="email">
+            </div>
+            <div class="field">
+                <label>Password</label>
+                <input type="password" name="password">
+            </div>
+            <div class="field">
+                <label>Address</label>
+                <input placeholder="Address" type="text" name="address">
+            </div>
+            <div class="field">
+
+            <div class="ui form">
+                <div class="field">
+                    <label>Gender</label>
+                    <select class="ui search dropdown">
+                        <option value="">Select Gender</option>
+                        <option value="0">Male</option>
+                        <option value="1">Female</option>
+                        <option value="2">Prefer not to say</option>
+                    </select>
+                </div>
+
+            </div>
+            </div>
+            <div class="two fields">
+                <div class="field">
+                    <label>Height</label>
+                    <input placeholder="0.00m" type="int" name="height">
+                </div>
+                <div class="field">
+                    <label>Starting Weight</label>
+                    <input placeholder="000.00kg" type="int" name="startingWeight">
+                </div>
+            </div>
+            <button class="ui blue submit button">Submit</button>
+        </form>
+        </div>
+
+    <div class="column">
+
+        <div class = "right aligned"><img src="https://cdn.glitch.com/f6132448-c661-4210-9392-2ee4720c758e%2Fabout.jpg?v=1565445860388" height="500" width="500"/></div>
+    </div>
+
+</div>
+
+</section>

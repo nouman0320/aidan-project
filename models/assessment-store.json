@@ -1,0 +1,90 @@
+{
+  "assessmentCollection": [
+    {
+      "id": "01",
+      "weight": "200",
+      "chest": "1",
+      "thigh": "2",
+      "upperArm": "3",
+      "waist": "4",
+      "hips": "5"
+    },
+    {
+      "id": "02",
+      "weight": "300",
+      "chest": "3",
+      "thigh": "3",
+      "upperArm": "3",
+      "waist": "3",
+      "hips": "3"
+    },
+    {
+      "id": "4225f5c7-45e7-49a1-afbb-f8f8f1789d31",
+      "weight": "",
+      "chest": "",
+      "thigh": "",
+      "upperArm": "",
+      "waist": "",
+      "hips": ""
+    },
+    {
+      "id": "ae3a42ca-5b01-4e86-ab85-24d5fb636f28",
+      "weight": "123",
+      "chest": "123",
+      "thigh": "123",
+      "upperArm": "123",
+      "waist": "123",
+      "hips": "123"
+    },
+    {
+      "id": "43ac6564-75fd-4f3d-a63b-70b383d2d421",
+      "userid": "1a623e97-c937-4e7f-9f10-4d8be78773bc",
+      "weight": "123",
+      "chest": "123",
+      "thigh": "123",
+      "upperArm": "123",
+      "waist": "123",
+      "hips": "123"
+    },
+    {
+      "id": "8df2f524-9125-40ec-8fac-3c206f35eefe",
+      "userid": "1a623e97-c937-4e7f-9f10-4d8be78773bc",
+      "weight": "123",
+      "chest": "123",
+      "thigh": "123",
+      "upperArm": "123",
+      "waist": "123",
+      "hips": "123"
+    },
+    {
+      "id": "018dd791-15e1-4fee-b4c2-f17e1471bd29",
+      "userid": "1a623e97-c937-4e7f-9f10-4d8be78773bc",
+      "weight": "",
+      "chest": "",
+      "thigh": "",
+      "upperArm": "",
+      "waist": "",
+      "hips": ""
+    },
+    {
+      "id": "54db0e01-e2a6-424f-a630-78d8f0fcfc04",
+      "userid": "1a623e97-c937-4e7f-9f10-4d8be78773bc",
+      "weight": "456",
+      "chest": "456",
+      "thigh": "456",
+      "upperArm": "456",
+      "waist": "456",
+      "hips": "456"
+    },
+    {
+      "id": "31e4e80d-7a65-4560-9c05-7835b743734f",
+      "userid": "1a623e97-c937-4e7f-9f10-4d8be78773bc",
+      "weight": "123",
+      "chest": "123",
+      "thigh": "133",
+      "upperArm": "",
+      "waist": "",
+      "hips": ""
+    }
+  ]
+}

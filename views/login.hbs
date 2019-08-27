@@ -1,0 +1,38 @@
+<!-- {{> welcomemenu id='login' }}
+
+<form class="ui stacked segment form" action="/authenticate" method="POST">
+  <h3 class="ui header">Log-in</h3>
+  <div class="field">
+    <label>Email</label> <input placeholder="Email" name="email">
+  </div>
+  <div class="field">
+    <label>Password</label> <input type="password"  name="password">
+  </div>
+  <button class="ui blue submit button">Login</button>
+</form>
+-->
+
+{{> welcomemenu id="login"}}
+
+<section class="ui raised segment">
+
+<div class="ui two column grid basic middle aligned segment">
+    <div class="column">
+        <form class="ui stacked segment form" action="/authenticate" method="POST">
+            <h3 class="ui header">Log-in</h3>
+            <div class="field">
+                <label>Email</label> <input placeholder="Email" name="email">
+            </div>
+            <div class="field">
+                <label>Password</label> <input type="password" name="password">
+            </div>
+            <button class="ui blue submit button">Login</button>
+        </form>
+    </div>
+    <div class="column">
+        <div class = "right aligned"><img src="https://cdn.glitch.com/f6132448-c661-4210-9392-2ee4720c758e%2Fabout.jpg?v=1565445860388" height="500" width="500"/></div>
+    </div>
+
+</div>
+
+</section>
